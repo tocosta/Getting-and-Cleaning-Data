@@ -20,7 +20,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 1. download the files "functions.R" and "run_analysis.R" to the same working directory
 2. download and unzip the data for the project from the link above to that same working directory 
 3. open the script "run_analysis.R"
-4. if the data folder called "UCI HAR Dataset" you is in that working directory and you didn't change the folder structure, you can skip this step, otherwise, just edit the variables with all the file paths on the top of the script
+4. if the data folder called "UCI HAR Dataset" is in that working directory and you didn't change the folder structure, you can skip this step, otherwise, just edit the variables with all the file paths on the top of the script "run_analysis.R"
 5. run the script "run_analysis.R"
 6. a tidy data set called "mydata.txt" was created on your working environment
 

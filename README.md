@@ -17,9 +17,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Instructions list/script:
 
-1. Step 1
-2. Step 2
-3. Step 3
+1. download the files "functions.R" and "run_analysis.R" to the same working directory
+2. download and unzip the data for the project from the link above to that same working directory 
+3. open the script "run_analysis.R"
+4. if the data folder called "UCI HAR Dataset" you is in that working directory and you didn't change the folder structure, you can skip this step, otherwise, just edit the variables with all the file paths on the top of the script
+5. run the script "run_analysis.R"
+6. a tidy data set called "mydata.txt" was created on your working environment
 
 ##What you should expect:
-A tidy data set (myData.txt) with the average of each variable for each activity and each subject, on your working directory.
+The output of this script is a tidy data set (mydata.txt) with the average of each variable for each activity and each subject, on your working directory.
+A description of each variable is available on the CodeBook.md
